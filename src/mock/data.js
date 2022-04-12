@@ -33,6 +33,7 @@ export const projectsData = [
     info: 'A hand painted deck of cards for my personal cartomancy use.',
     info2: '-In Progress-',
     url: 'https://oracle.justicythings.com/',
+    facing: 'right',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -42,6 +43,7 @@ export const projectsData = [
     info: 'An attempt to bring poetry more fully back into my life. The structure is still forming.',
     info2: '-Theoretical-',
     url: 'https://sky.justicythings.com/',
+    facing: 'right',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -51,6 +53,7 @@ export const projectsData = [
     info: 'Info/price page for tarot readings.',
     info2: '-Service-',
     url: 'https://icytarot.carrd.co/',
+    facing: 'right',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -60,6 +63,7 @@ export const projectsData = [
     info: 'Links to twitter threads of exploration and tutorials in cooking, dyeing, and wildcrafting.',
     info2: '-Ongoing-',
     url: 'https://icynewyear.carrd.co/',
+    facing: 'right',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -69,6 +73,7 @@ export const projectsData = [
     info: 'An actual play podcast using the Mask: A New Generation system.',
     info2: '-Ongoing-',
     url: 'https://www.icynewyear.com/mhh-info',
+    facing: 'right',
     repo: '', // if no repo, the button will not show up
   },
 ];
