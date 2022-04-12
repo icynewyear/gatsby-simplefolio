@@ -30,16 +30,43 @@ export const projectsData = [
     id: nanoid(),
     img: 'oracle.jpg',
     title: 'Personal Oracle Deck',
-    info: 'A hand painted deck of cards for my personal cartomancy use',
+    info: 'A hand painted deck of cards for my personal cartomancy use.',
     info2: '-In Progress-',
     url: 'https://oracle.justicythings.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
+    img: 'poetry.jpg',
+    title: 'Rexploring Poetry',
+    info: 'An attempt to bring poetry more fully back into my life. The structure is still forming.',
+    info2: '-Theoretical-',
+    url: 'https://sky.justicythings.com/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'tarot.jpg',
+    title: 'Tarot Readings',
+    info: 'Info/price page for tarot readings.',
+    info2: '-Service-',
+    url: 'https://icytarot.carrd.co/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'wildcrafting.jpg',
+    title: 'Twitter Thread Index',
+    info: 'Links to twitter threads of exploration and tutorials in cooking, dyeing, and wildcrafting.',
+    info2: '-Ongoing-',
+    url: 'https://icynewyear.carrd.co/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'mhhlogo.png',
     title: 'Moon Harbor Heroes',
-    info: 'An actual play podcast using the Mask: A New Generation system',
+    info: 'An actual play podcast using the Mask: A New Generation system.',
     info2: '-Ongoing-',
     url: 'https://www.icynewyear.com/mhh-info',
     repo: '', // if no repo, the button will not show up
@@ -70,6 +97,11 @@ export const footerData = {
       id: nanoid(),
       name: 'github',
       url: 'https://github.com/icynewyear',
+    },
+    {
+      id: nanoid(),
+      name: 'paypal',
+      url: 'https://www.paypal.com/donate/?hosted_button_id=874VB886ERD4E',
     },
   ],
 };
